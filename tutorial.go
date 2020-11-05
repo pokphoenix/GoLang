@@ -36,5 +36,7 @@ func main() {
 
 	var out string = fmt.Sprintf("Number : %07d is cool \n",45)
 	fmt.Println(out)
+
+	//poktest push to git
 }
 // run command on terminal :     go run tutorial.go
